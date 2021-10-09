@@ -1,4 +1,3 @@
-import { User } from "../../../users/entities/User"
 import { InMemoryUsersRepository } from "../../../users/repositories/in-memory/InMemoryUsersRepository"
 import { CreateUserUseCase } from "../../../users/useCases/createUser/CreateUserUseCase"
 import { InMemoryStatementsRepository } from "../../repositories/in-memory/InMemoryStatementsRepository"
